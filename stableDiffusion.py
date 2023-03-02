@@ -1,5 +1,3 @@
-import os
-
 import requests
 
 API_URL = "https://api-inference.huggingface.co/models/CompVis/stable-diffusion-v1-4"
